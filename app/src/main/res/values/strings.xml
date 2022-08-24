@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="text_favorite">Favorite</string>
+    <string name="text_delete_success">Profil berhasil dihapus dari daftar favorit</string>
+    <string name="text_favorite_success">Anda menyukai profil ini</string>
+    <string name="home_favorite">User Favorite</string>
+    <string name="home_theme_settings">Change Theme</string>
+    <string name="text_data_found">Data ditemukan :</string>
+    <string name="text_user_not_found">Maaf, profil tidak ditemukan</string>
+</resources>

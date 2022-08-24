@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorOrange">#ee9a04</color>
+
+    <!-- Basic -->
+    <color name="primary">#556EE6</color>
+    <color name="secondary">#74788D</color>
+    <color name="purple_light">#DDE2FA</color>
+    <color name="purple_very_light">#F8F8FB</color>
+    <color name="success">#34C38F</color>
+    <color name="info">#50A5F1</color>
+    <color name="warning">#F1B44C</color>
+    <color name="danger">#F46A6A</color>
+
+    <!-- Grays : Light Mode -->
+    <color name="lm_gray_100">#F8F9FA</color>
+    <color name="lm_gray_200">#EFF2F7</color>
+    <color name="lm_gray_300">#F6F6F6</color>
+    <color name="lm_gray_400">#CED4DA</color>
+    <color name="lm_gray_500">#ADB5BD</color>
+    <color name="lm_gray_600">#74788D</color>
+    <color name="lm_gray_700">#495057</color>
+    <color name="lm_gray_800">#343A40</color>
+    <color name="lm_gray_900">#212529</color>
+
+    <!-- Grays : Dark Mode -->
+    <color name="dm_gray_100">#212529</color>
+    <color name="dm_gray_200">#2A3042</color>
+    <color name="dm_gray_300">#32394E</color>
+    <color name="dm_gray_400">#A6B0CF</color>
+    <color name="dm_gray_500">#BFC8E2</color>
+    <color name="dm_gray_600">#C3CBE4</color>
+    <color name="dm_gray_700">#F6F6F6</color>
+    <color name="dm_gray_800">#EFF2F7</color>
+    <color name="dm_gray_900">#F8F9FA</color>
+
+    <!-- Border -->
+    <color name="outline_primary">@color/primary</color>
+    <color name="outline_secondary">@color/lm_gray_400</color>
+    <color name="outline_tertiary">@color/lm_gray_200</color>
+
+    <!-- Text -->
+    <color name="text_primary">@color/lm_gray_800</color>
+    <color name="text_secondary">@color/lm_gray_700</color>
+    <color name="text_tertiary">@color/primary</color>
+    <color name="text_white">@color/white</color>
+    <color name="text_field">@color/lm_gray_600</color>
+    <color name="text_link">#1390FF</color>
+
+    <!-- Device Status -->
+    <color name="device_online">#195E45</color>
+    <color name="device_away">#FFE600</color>
+    <color name="device_offline">#ED3030</color>
+</resources>
